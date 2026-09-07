@@ -1,0 +1,10 @@
+{
+  "name": "health-support-skill",
+  "displayName": "Health Support Skill",
+  "project": "moe-zdorovie",
+  "repository": "moe-zdorovie-app",
+  "description": "Новый скилл для проекта \"моё здоровье\".",
+  "dependencies": [
+    "Skill"
+  ]
+}

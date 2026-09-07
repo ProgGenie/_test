@@ -1,0 +1,9 @@
+{
+  "name": "moe-zdorovie-app",
+  "displayName": "Моё здоровье — приложение",
+  "project": "moe-zdorovie",
+  "description": "Репозиторий проекта \"моё здоровье\".",
+  "skills": [
+    "health-support-skill"
+  ]
+}
