@@ -1,6 +1,6 @@
 {
+  "id": "moe-zdorovie",
   "name": "моё здоровье",
-  "slug": "moe-zdorovie",
   "description": "Новый проект для инициативы \"моё здоровье\".",
   "repositories": [
     "moe-zdorovie-app"

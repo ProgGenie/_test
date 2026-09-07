@@ -1,6 +1,6 @@
 {
-  "name": "moe-zdorovie-app",
-  "displayName": "Моё здоровье — приложение",
+  "id": "moe-zdorovie-app",
+  "name": "Моё здоровье — приложение",
   "project": "moe-zdorovie",
   "description": "Репозиторий проекта \"моё здоровье\".",
   "skills": [
